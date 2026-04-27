@@ -1,6 +1,6 @@
 # US_Visa_Prediction_MLOps_Pipeline
 
-This is MLOps Project
+This is MLOps End to End Project 
 
 ## Git Commands
 
