@@ -25,3 +25,13 @@ conda activate visa
 ```bash
 pip install -r requirements.txt
 ```
+
+## Workflow
+
+1. constant
+2. Entity
+
+## Export the environment variable
+```bash
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+```
