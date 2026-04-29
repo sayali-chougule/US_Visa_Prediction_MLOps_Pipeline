@@ -30,6 +30,8 @@ pip install -r requirements.txt
 
 1. constant
 2. Entity
+3. Components
+4. Pipeline
 
 ## Export the environment variable
 ```bash
